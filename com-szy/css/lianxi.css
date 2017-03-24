@@ -1,0 +1,18 @@
+.l-mid-bg{float: left; width: 745px;height: 28px;background: url(../img/lx-bg.png);margin-left: 37px;padding: 9px 0 0 33px;}
+.l-mid-bg p{text-align: left;}
+.l-min-in{float: left; width: 719px;padding-left: 59px;}
+.l-min-in h3{ line-height: 43px;font-size: 14px;text-align: left;}
+.l-min-img{width: 532px;height: 245px;border:1px #e1dddd solid;padding: 5px;}
+.chan-in{float: left; width: 777px;padding-left: 37px;}
+.list{width: 777px;}
+.list li{float: left;width: 359px;height: 143px;border-bottom: 1px #e1dddd dashed;margin: 0 17px 0 12px;padding-top: 14px;}
+.list a{float: left;width: 125px;height: 125px;border: 1px #e1dddd solid;}
+.list h4{float: left;line-height:24px;  font-size:18px;font-family:"微软雅黑";color: #323232;font-weight: 500;padding-left: 20px;}
+.list p{float: left;line-height: 23px;font-size: 13px;color: #323232;padding-left: 20px;text-align: left;}
+.hangye{float: left; width: 758px;padding-left: 56px;}
+.hangye-in li{height: 39px;text-align: left;border-bottom:1px #e1dddd dashed; line-height: 39px;}
+.hangye-in li span{float: right; color: #8e8d8d;text-align: right;}
+.jianjie{float: left;width: 779px;padding-left: 35px;padding-top: 32px;}
+.jianjie h3{font-size: 14px;color: #5e5a5a;}
+.jianjie h4{font-size: 12px;color: #5e5a5a;font-weight: 500;margin-top: 12px;margin-bottom: 12px;}
+.jianjie p{width: 722px;line-height: 24px;color: #5e5a5a;margin: 0 auto;text-align: left;margin-top: 6px;}
